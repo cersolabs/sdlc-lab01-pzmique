@@ -87,14 +87,19 @@ Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
 | Cascada     | Desarrollo secuencial por etapas bien definidas | Cuando los requrimientos son **claros** y no cambian|
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
-| RAD         |                          |                        |
+| Incremental | El sistema se desarrolla y entrega en varias versiones | Cuando se quiere entregar funcionalidades pero de forma gradual o incremental como lo dice |
+| Prototipos  | Se construye una versión preliminar/prueba para entender mejor el sistema | Cuando los requerimientos no están claros |
+| Espiral     | Combina el desarrollo iterativo con análisis de riesgos | Cuando el proyecto tiene muchos riesgos |
+| RAD         | Desarrollo rápido con herramientas y reutilización de componentes | Cuando se necesita desarrollar el sistema en poco tiempo |
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+    
+    R: El modelo en **espiral**
+     
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    
+    R: El modelo de **prototipos**
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
