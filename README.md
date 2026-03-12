@@ -24,15 +24,15 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: Son varias, porque permite organizar todo el trabajo, ayuda a definir claramente los objetivos del sistema, a reducir los errores, controlar tiempos y costos sin andar improvisando, y mejora la comunicación entre el equipo.
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
-
+   R: Técnicamente porque son rígidos, no permiten muchos cambios una vez definido el plan inicial, y pueden adaptarse mal cuando los requerimientos del sistema cambian durante el desarrollo
+ 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Porque los modelos dirigidos por un plan permiten una organización y documentación, mientras que las metodologías ágiles permiten adaptarse mejor a cambios y necesidades del CLIENTE
 
 
 ### Actividad 2
