@@ -16,11 +16,11 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R: Porque debe haber una planificación para que el desarrollo sea lo más claro posible, y ideas/conceptos concretos antes de empezar a programar. Si no se planifica, aparecen errores, faltan funcionalidades y habría problemas de organización en el proyecto.
+   R: Porque debe haber una planificación para que el desarrollo sea lo más claro posible, e ideas o conceptos concretos antes de empezar a programar. Si no se planifica, aparecen errores, faltan funcionalidades y habría problemas de organización en el proyecto.
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: Esto significa que el proyecto o un desarrollo sigue una PLANIFICACIÓN inicial donde se definen etapas, tareas y los objetivos antes de comenzar a codear.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
