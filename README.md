@@ -86,7 +86,7 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
+| Cascada     | Desarrollo secuencial por etapas bien definidas | Cuando los requrimientos son **claros** y no cambian|
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
