@@ -39,7 +39,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
+| Análisis                      | Se evalúan las necesidades del cliente y se concretan los requerimientos del sistema |
 | Diseño                        |             |
 | Codificación                  |             |
 | Prueba                        |             |
