@@ -40,10 +40,10 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
 | Análisis                      | Se evalúan las necesidades del cliente y se concretan los requerimientos del sistema |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Diseño                        |Se define la estructura del sistema, su arquitectura por así decirlo, sus componentes y funcionalidad |
+| Codificación                  | Se programa/desarrolla el sistema mediante lenguaje/s de programación |
+| Prueba                        | Se testea/verifica para que el sistema esté óptimo, detectando errores |
+| Puesta en marcha / Despliegue | Finalmente el sistema se instala y comienza a ser utilizado por el cliente en un entorno real |
 
 
 * Luego responda:
