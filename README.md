@@ -56,6 +56,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
   * ¿Cuál es el objetivo principal de las pruebas?
     
     R: Su objetivo concreto es detectar los errores posibles, y verificar que el software funcione en base a los requerimientos
+    
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -65,15 +66,22 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: 
+1. Ingenieria de requerimientos
+2. Diseño
+3. Codificación
+4. Prueba
+5. Despliegue/Deploy
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: Lo que puede ocurrir es que el error **arrastra** a las etapas que les siguen, lo que trae mayores costos y dificultades para poder corregirlo más adelante.
+    
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Porque el modelo es muy rígido y los cambios obligan a volver a etapas anteriores, lo que retrasa el desarrollo, y también aumenta los costos.
+    
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
