@@ -123,10 +123,10 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 - ¿Qué etapas principales tendría el desarrollo?
 
   R:
-  - Requisitos del proyecto / Planificación de requerimientos
-  - Diseño de prototipos / Diseño del usuario / Feedback 
-  - Construcción / Desarrollo (Donde también se hacen pruebas continuas para detectar errores y corregirlos)
-  - Y finalmente la Implementación / Despliegue del sistema
+  - **Requisitos del proyecto** / **Planificación de requerimientos**
+  - **Diseño de prototipos** / **Diseño del usuario** / Feedback 
+  - **Construcción** / **Desarrollo** (*Donde también se hacen pruebas continuas para detectar errores y corregirlos*)
+  - Y finalmente la **Implementación** / **Despliegue del sistema**
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
