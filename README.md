@@ -114,18 +114,19 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: El modelo **RAD** seria ideal, o el modelo en **cascada** 
+  R: El modelo en **cascada** .
   
 - Justifique su respuesta.
   
-  R: Porque el sistema al ser pequeño, con pocos usarios, y teniendo ideas o requerimientos claros no se necesita un modelo complejo, y se necesita eficacia y agilidad en ocaciones como esta por el tiempo limitado, haciendo que sea conveniente un desarrollo simple y organizado con RAD con herramientas y componentes reutilizables
+  R: Porque el sistema al ser pequeño, con pocos usarios, y teniendo ideas o requerimientos claros no se necesita un modelo complejo, y se necesita eficacia, simplicidad y agilidad en ocaciones como esta por el tiempo limitado, hace que sea conveniente un desarrollo organizado con CASCADA.
   
 - ¿Qué etapas principales tendría el desarrollo?
 
   R:
-  - **Requisitos del proyecto** / **Planificación de requerimientos**
-  - **Diseño de prototipos** / **Diseño del usuario** / Feedback 
+  - **Analisis de requerimientos**
+  - **Diseño**
   - **Construcción** / **Desarrollo** (*Donde también se hacen pruebas continuas para detectar errores y corregirlos*)
+  - **Prueba**
   - Y finalmente la **Implementación** / **Despliegue del sistema**
 
 ### Actividad 7 – Verdadero o Falso
